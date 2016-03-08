@@ -1,0 +1,10 @@
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\obj\Debug\TicTacToeGame.GameWindow.resources
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.Cache
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+c:\users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\obj\Debug\TicTacToeGame.csprojResolveAssemblyReference.cache
+C:\Users\redoy\documents\visual studio 2013\Projects\TicTacToeGame\obj\Debug\TicTacToeGame.Menu.resources
